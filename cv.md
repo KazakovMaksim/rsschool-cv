@@ -36,4 +36,4 @@ ___
 graduated from Saratov State University in 2003
 ___
 #### English:
-A1 level English 
+A1 level English (_score from EPAM Examinator 05.02.2021_)
