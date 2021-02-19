@@ -16,7 +16,7 @@ Before this courses, I worked in telecommunications (mobile network KPI analyse)
 
 
 ___
-### Skills:
+#### Skills:
 1. pascal school course
 2. basic GIT, basic HTML/CSS
 ___
